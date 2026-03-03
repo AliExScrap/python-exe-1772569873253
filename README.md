@@ -1,2 +1,5 @@
-# python-exe-1772569873253
-Python to EXE - PythonApp
+# PythonApp
+
+Python app compiled to Windows EXE via GitHub Actions.
+
+Le build démarre automatiquement via GitHub Actions.
